@@ -4,13 +4,13 @@
   }
   
   .main>.info {
+
     color: #2b3463;
     text-align: center;
     padding: 30px 0;
     font-size: 1.5rem;
   }
   
-  /* Draw winning line*/
   
   .main>.board {
     position: relative;
